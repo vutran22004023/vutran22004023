@@ -131,12 +131,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vutran22004023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vutran22004023&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 <img src="https://streak-stats.demolab.com?user=vutran22004023&theme=tokyonight&hide_border=true" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vutran22004023&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
