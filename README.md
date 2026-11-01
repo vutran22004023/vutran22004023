@@ -1,19 +1,19 @@
 <div align="center">
 
 # Hi there, I'm Trần Lê Vũ 👋
-### 🚀 Full Stack Developer (Mobile & Backend) | AI-IoT & Real-time Systems
+### 🚀 Full Stack Developer (Mobile & Backend) | Edge AI & Real-time Systems
 
 <p align="center">
   <a href="mailto:levu1962004@gmail.com"><img src="https://img.shields.io/badge/Email-levu1962004%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/vu.tranle.1906/"><img src="https://img.shields.io/badge/Facebook-Trần%20Lê%20Vũ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="tel:+84906472426"><img src="https://img.shields.io/badge/Phone-+84%20906%20472%20426-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Đà%20Nẵng,%20Vietnam-FF6F00?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-FF6F00?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(React+Native+%2B+.NET);Building+AI-driven+Attendance+%26+Desktop+Kiosks;Real-time+Systems+with+WebRTC+%26+SignalR;DevOps+Enthusiast+(OTA+CI%2FCD+%2B+GitHub+Actions)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(React+Native+%2B+.NET);Building+AI-driven+Attendance+%26+Desktop+Kiosks;Real-time+Systems+with+WebRTC+%26+SignalR;Mobile+DevOps+(OTA+CI%2FCD+%2B+Auto-Rollback)" alt="Typing SVG" />
 </p>
 
 </div>
@@ -22,10 +22,10 @@
 
 ## 🌟 About Me
 
-- 💼 **Full Stack Developer** với hơn **2 năm kinh nghiệm** thực chiến phát triển các giải pháp đa nền tảng (**Mobile iOS/Android**, **Web**, **Desktop Kiosk** và **Backend**).
-- 🧠 Chuyên sâu xây dựng **Edge AI & IoT Systems** (Nhận diện khuôn mặt Frigate NVR, stream WebRTC độ trễ thấp qua go2rtc, Kiosk chấm công rảnh tay).
-- ⚡ Có kinh nghiệm giải quyết các bài toán nghiệp vụ phức tạp: Động cơ tính công & phân ca đa tầng, chat nội bộ thời gian thực (Local Cache, Thread, Infinite Scroll), và quy trình tự động hóa **CI/CD / OTA Hot-update**.
-- 🎓 Tốt nghiệp **Kỹ sư Phần mềm** tại **VTC Academy Đà Nẵng** (GPA: **83.12**).
+- 💼 **Full Stack Software Engineer** with over **2 years of hands-on experience** developing high-performance multi-platform solutions across **Mobile (iOS/Android)**, **Web**, **Desktop Kiosks**, and **Enterprise Backend**.
+- 🧠 Deep focus on **Edge AI & IoT Systems**: Face recognition integration (Frigate NVR, Face Embeddings), ultra-low latency WebRTC streaming via go2rtc, and contactless smart attendance kiosks.
+- ⚡ Proven track record in solving complex architectural challenges: multi-tenant shift calculation engines, enterprise real-time messaging (Local DB Caching, Threading, Infinite Scroll), and automated **OTA Hot-update CI/CD pipelines**.
+- 🎓 Graduated as a **Software Engineer** from **VTC Academy Da Nang** (GPA: **83.12**).
 
 ---
 
@@ -41,7 +41,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📱 Frontend & Mobile / Desktop
+### 📱 Frontend, Mobile & Desktop
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,7 +50,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-### ⚙️ Backend, AI & Real-time Protocols
+### ⚙️ Backend, AI & Real-Time Protocols
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_WebAPI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -60,7 +60,7 @@
 ![Frigate NVR](https://img.shields.io/badge/Frigate_Edge_AI-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
 ![go2rtc](https://img.shields.io/badge/go2rtc-Streaming-4A90E2?style=for-the-badge&logo=livechat&logoColor=white)
 
-### 🗄️ Database & DevOps
+### 🗄️ Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -73,29 +73,29 @@
 
 ## 💼 Work Experience
 
-### 🏢 **Công ty TNHH Quản trị số Fastdo** | *Full Stack Developer (Mobile & Backend)*
-> `08/2025 – Present` | *Fastdo Ecosystem: HRM, Chấm công thông minh, Task Management & Enterprise Chat*
+### 🏢 **Fastdo Digital Management Co., Ltd.** | *Full Stack Developer (Mobile & Backend)*
+> `08/2025 – Present` | *Fastdo Ecosystem: Enterprise HRM, Smart Attendance, Todolist & Internal Chat*
 
-- **Smart Attendance & Edge AI Video System:**
-  - Thiết kế và triển khai giải pháp chấm công khuôn mặt bằng **AI Camera**, tích hợp **Frigate NVR** và **Face Embeddings**, tự động scan camera qua đa lớp mạng LAN / router phụ.
-  - Xây dựng ứng dụng **Desktop Kiosk** (React Native Web + Vite + Electron), kết nối camera qua **WebRTC** độ trễ cực thấp với **go2rtc**.
-- **Động cơ Chấm công & Phê duyệt Phức tạp:**
-  - Xây dựng hệ thống tính công lõi trên **.NET 8 & React Native**: ca đêm qua ngày, ca liền kề, tự động bù giờ OT vào ca chính, chống gian lận vị trí với **FaceID, GPS Geofencing và Wi-Fi BSSID**.
-  - Thiết kế luồng phê duyệt đơn từ động đa cấp (gộp bước duyệt tự động, phân quyền theo sơ đồ tổ chức).
-- **Trải nghiệm Mobile & Real-time Chat:**
-  - Tích hợp **iOS Live Activities & Android Widgets** cập nhật trạng thái ca làm và nhắc chấm công tức thì.
-  - Tối ưu hóa **fChat** với SQLite Local Cache, Infinite Scrolling, Reaction, Thread và Sticker Keyboard.
-  - Thiết lập pipeline **OTA Hot-Update (CodePush/CI-CD)** qua GitHub Actions với quy trình duyệt Beta & tự động Rollback khi crash.
+- **Edge AI Smart Attendance & Kiosk Systems:**
+  - Architected an automated face-recognition attendance system integrating **Frigate NVR** and centralized **Face Embeddings**, capable of auto-discovering IP cameras across complex LAN subnets.
+  - Engineered a standalone **Desktop Kiosk** application (React Native Web + Vite + Electron) with ultra-low latency **WebRTC / go2rtc** streaming for seamless contactless check-in.
+- **Complex Attendance & Multi-tiered Approval Engine:**
+  - Designed core calculation services on **.NET 8 & React Native**: handled intricate overnight shifts, adjacent overtime (OT), automated attendance-leave-shift compensation, and check-in on behalf of colleagues.
+  - Integrated multi-factor anti-fraud validation with **Face Authentication, GPS Geofencing, and Wi-Fi BSSID**.
+- **Mobile Experience & Real-Time Collaboration:**
+  - Implemented **iOS Live Activities & Android Home Widgets** delivering real-time shift status and proactive check-in reminders.
+  - Optimized **fChat** performance using SQLite Local Cache, infinite scrolling, message threading, reactions, and customizable sticker keyboards.
+  - Built an automated **Over-The-Air (OTA) Hot-Update Pipeline** via GitHub Actions with Beta approval channels and automatic crash-detection rollback.
 
 ---
 
-### 🏢 **Công ty SapotaCorp** | *Full Stack Developer (Mobile & Backend)*
-> `06/2024 – 06/2025` | *Dự án: [SheetMuse](https://sheetmuse.app/) – Music Learning & Band Rehearsal Platform*
+### 🏢 **SapotaCorp** | *Full Stack Developer (Mobile & Backend)*
+> `06/2024 – 06/2025` | *Project: [SheetMuse](https://sheetmuse.app/) – Music Learning & Band Rehearsal Platform*
 
-- Nền tảng học nhạc và luyện tập âm nhạc đa nền tảng (**iOS, Android, Web**).
-- Phát triển tính năng hiển thị bản nhạc, hợp âm, lời bài hát và tách âm thanh thành từng nhạc cụ (**Audio Stems**).
-- Cung cấp trình phát nhạc nâng cao (tùy chỉnh tốc độ, cao độ, lặp đoạn nhạc).
-- Xây dựng tính năng **BandSync**: cho phép nhiều người dùng cùng luyện tập và đồng bộ trạng thái phát nhạc theo thời gian thực qua **WebSocket & Node.js**.
+- Developed a cross-platform music education ecosystem (**iOS, Android, Web**).
+- Engineered interactive sheet music features displaying real-time notes, chords, lyrics, and isolated instrument audio stems (**Audio Stems separation**).
+- Delivered advanced playback capabilities: pitch shifting, dynamic tempo adjustment, and A/B section looping.
+- Architected **BandSync**: a real-time collaborative feature enabling multiple band members to synchronize playback states simultaneously via **Node.js & WebSocket**.
 
 ---
 
@@ -120,13 +120,13 @@
 
 <div align="center">
 
-Nếu bạn có cơ hội hợp tác hoặc muốn trao đổi về kỹ thuật, đừng ngần ngại kết nối với tôi:
+Feel free to connect with me for collaborations, technical discussions, or opportunities:
 
 [![Facebook](https://img.shields.io/badge/Facebook-vu.tranle.1906-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/vu.tranle.1906/)
 [![Gmail](https://img.shields.io/badge/Gmail-levu1962004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:levu1962004@gmail.com)
-[![Portfolio/App Store](https://img.shields.io/badge/Fastdo-App%20Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/fastdo/id1571994336)
-[![Google Play](https://img.shields.io/badge/Fastdo-Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fastdo.mobile)
+[![Fastdo on App Store](https://img.shields.io/badge/Fastdo-App%20Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/vn/app/fastdo/id1571994336)
+[![Fastdo on Google Play](https://img.shields.io/badge/Fastdo-Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fastdo.mobile)
 
 <br/>
-⭐️ *Profile được cập nhật liên tục với các dự án mới nhất!*
+⭐️ *Profile is continuously maintained and updated with the latest works!*
 </div>
