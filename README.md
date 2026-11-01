@@ -7,7 +7,7 @@
   <a href="mailto:levu1962004@gmail.com"><img src="https://img.shields.io/badge/Email-levu1962004%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/vu.tranle.1906/"><img src="https://img.shields.io/badge/Facebook-Trần%20Lê%20Vũ-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="tel:+84906472426"><img src="https://img.shields.io/badge/Phone-+84%20906%20472%20426-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-FF6F00?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Đà%20Nẵng,%20Vietnam-FF6F00?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
@@ -16,16 +16,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(React+Native+%2B+.NET);Building+AI-driven+Attendance+%26+Desktop+Kiosks;Real-time+Systems+with+WebRTC+%26+SignalR;Mobile+DevOps+(OTA+CI%2FCD+%2B+Auto-Rollback)" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <b>🌐 Select Language / Chọn ngôn ngữ:</b><br/>
+  <a href="#-tiếng-việt-phiên-bản-chính">🇻🇳 <b>Tiếng Việt</b></a> • 
+  <a href="#-english-version">🇬🇧 <b>English Version</b></a>
+</p>
+
 </div>
-
----
-
-## 🌟 About Me
-
-- 💼 **Full Stack Software Engineer** with over **2 years of hands-on experience** developing high-performance multi-platform solutions across **Mobile (iOS/Android)**, **Web**, **Desktop Kiosks**, and **Enterprise Backend**.
-- 🧠 Deep focus on **Edge AI & IoT Systems**: Face recognition integration (Frigate NVR, Face Embeddings), ultra-low latency WebRTC streaming via go2rtc, and contactless smart attendance kiosks.
-- ⚡ Proven track record in solving complex architectural challenges: multi-tenant shift calculation engines, enterprise real-time messaging (Local DB Caching, Threading, Infinite Scroll), and automated **OTA Hot-update CI/CD pipelines**.
-- 🎓 Graduated as a **Software Engineer** from **VTC Academy Da Nang** (GPA: **83.12**).
 
 ---
 
@@ -71,7 +68,51 @@
 
 ---
 
-## 💼 Work Experience
+# 🇻🇳 TIẾNG VIỆT (PHIÊN BẢN CHÍNH)
+
+## 🌟 Giới thiệu bản thân
+
+- 💼 **Full Stack Developer** với hơn **2 năm kinh nghiệm** thực chiến phát triển các giải pháp đa nền tảng (**Mobile iOS/Android**, **Web**, **Desktop Kiosk** và **Backend**).
+- 🧠 Chuyên sâu xây dựng **Edge AI & IoT Systems**: Nhận diện khuôn mặt với Frigate NVR, trích xuất Face Embeddings, stream WebRTC độ trễ thấp qua go2rtc và Kiosk chấm công rảnh tay.
+- ⚡ Có kinh nghiệm giải quyết các bài toán nghiệp vụ phức tạp: Động cơ tính công & phân ca đa tầng (.NET 8), chat nội bộ thời gian thực (Local Cache, Thread, Infinite Scroll) và quy trình tự động hóa **CI/CD / OTA Hot-update**.
+- 🎓 Tốt nghiệp **Kỹ sư Phần mềm** tại **VTC Academy Đà Nẵng** (GPA: **83.12**).
+
+## 💼 Kinh nghiệm làm việc
+
+### 🏢 **Công ty TNHH Quản trị số Fastdo** | *Lập trình viên Full Stack (Mobile & Backend)*
+> `08/2025 – Hiện tại` | *Hệ sinh thái Fastdo: Quản trị doanh nghiệp HRM, Chấm công thông minh, Task Management & Chat nội bộ*
+
+- **Hệ thống Chấm công AI Camera & Desktop Kiosk:**
+  - Thiết kế và triển khai giải pháp chấm công khuôn mặt bằng **AI Camera**, tích hợp **Frigate NVR** và **Face Embeddings**, tự động quét tìm camera qua đa lớp mạng LAN / router phụ.
+  - Xây dựng ứng dụng **Desktop Kiosk** (React Native Web + Vite + Electron), kết nối camera qua **WebRTC** độ trễ cực thấp với **go2rtc** cho phép tự chấm công rảnh tay.
+- **Động cơ Nghiệp vụ Chấm công & Phê duyệt Phức tạp:**
+  - Xây dựng hệ thống tính công lõi trên **.NET 8 & React Native**: xử lý ca đêm qua ngày, ca liền kề, tự động bù giờ OT vào ca chính, chống gian lận vị trí với **FaceID, GPS Geofencing và Wi-Fi BSSID**.
+  - Xây dựng cơ chế chấm công hộ, phê duyệt đơn từ động đa cấp (tự động gộp bước duyệt, phân quyền linh hoạt theo sơ đồ tổ chức).
+- **Trải nghiệm Mobile & Chat Thời gian thực:**
+  - Tích hợp **iOS Live Activities & Android Widgets** hiển thị ca làm và nhắc nhở chấm công theo thời gian thực.
+  - Tối ưu hóa hệ thống chat (**fChat**) với SQLite Local Cache, Infinite Scrolling, Reaction, Thread và Sticker Keyboard.
+  - Xây dựng pipeline **OTA Hot-Update (CodePush/CI-CD)** qua GitHub Actions với quy trình duyệt Beta & tự động Rollback khi phát hiện crash.
+
+### 🏢 **Công ty SapotaCorp** | *Lập trình viên Full Stack (Mobile & Backend)*
+> `06/2024 – 06/2025` | *Dự án: [SheetMuse](https://sheetmuse.app/) – Music Learning & Band Rehearsal Platform*
+
+- Nền tảng học nhạc và luyện tập âm nhạc đa nền tảng (**iOS, Android, Web**).
+- Phát triển tính năng hiển thị bản nhạc, hợp âm, lời bài hát và tách âm thanh thành từng nhạc cụ (**Audio Stems**).
+- Trình phát nhạc nâng cao (tùy chỉnh tốc độ, cao độ, lặp đoạn nhạc) phục vụ việc luyện tập cá nhân.
+- Xây dựng tính năng **BandSync**: cho phép nhiều người dùng cùng tham gia buổi tập và đồng bộ trạng thái phát nhạc thời gian thực qua **WebSocket & Node.js**.
+
+---
+
+# 🇬🇧 ENGLISH VERSION
+
+## 🌟 Professional Summary
+
+- 💼 **Full Stack Software Engineer** with over **2 years of hands-on experience** developing high-performance multi-platform solutions across **Mobile (iOS/Android)**, **Web**, **Desktop Kiosks**, and **Enterprise Backend**.
+- 🧠 Deep focus on **Edge AI & IoT Systems**: Face recognition integration (Frigate NVR, Face Embeddings), ultra-low latency WebRTC streaming via go2rtc, and contactless smart attendance kiosks.
+- ⚡ Proven track record in solving complex architectural challenges: multi-tenant shift calculation engines (.NET 8), enterprise real-time messaging (Local DB Caching, Threading, Infinite Scroll), and automated **OTA Hot-update CI/CD pipelines**.
+- 🎓 Graduated as a **Software Engineer** from **VTC Academy Da Nang** (GPA: **83.12**).
+
+## 💼 Work Experiences
 
 ### 🏢 **Fastdo Digital Management Co., Ltd.** | *Full Stack Developer (Mobile & Backend)*
 > `08/2025 – Present` | *Fastdo Ecosystem: Enterprise HRM, Smart Attendance, Todolist & Internal Chat*
@@ -86,8 +127,6 @@
   - Implemented **iOS Live Activities & Android Home Widgets** delivering real-time shift status and proactive check-in reminders.
   - Optimized **fChat** performance using SQLite Local Cache, infinite scrolling, message threading, reactions, and customizable sticker keyboards.
   - Built an automated **Over-The-Air (OTA) Hot-Update Pipeline** via GitHub Actions with Beta approval channels and automatic crash-detection rollback.
-
----
 
 ### 🏢 **SapotaCorp** | *Full Stack Developer (Mobile & Backend)*
 > `06/2024 – 06/2025` | *Project: [SheetMuse](https://sheetmuse.app/) – Music Learning & Band Rehearsal Platform*
@@ -116,11 +155,9 @@
 
 ---
 
-## 📫 Get In Touch
+## 📫 Get In Touch / Liên hệ
 
 <div align="center">
-
-Feel free to connect with me for collaborations, technical discussions, or opportunities:
 
 [![Facebook](https://img.shields.io/badge/Facebook-vu.tranle.1906-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/vu.tranle.1906/)
 [![Gmail](https://img.shields.io/badge/Gmail-levu1962004%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:levu1962004@gmail.com)
